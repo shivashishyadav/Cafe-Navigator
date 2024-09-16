@@ -1,0 +1,22 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment directory
+myenv/
+
+# Secret key file
+secret_key.py
+
+# IDE-specific files
+.vscode/
+*.swp
+*.swo
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
